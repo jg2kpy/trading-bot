@@ -112,6 +112,7 @@ TRADING_SYMBOL=BTCUSDT
 To start the trading bot, simply run the following command:
 
 ```bash
+cd src/
 python main.py
 ```
 
